@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Revised Introduction​"
+title: "Introduction​"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,8 +9,8 @@ redirect_from:
 
 Hi, I'm Qilin Cai, pursuing my master's degree at USTC's Cognitive Intelligence State Key Lab under the guidance of Dr. Mingjun Xiao. My academic journey spans three key institutions:
 
-​​* Computer Science Department​​ (Hefei Campus)
-
-​​* Suzhou Institute for Advanced Study​​
-
-​​* Cognitive Intelligence SKL​
+<ul>
+  <li>Computer Science Department​​ (Hefei Campus)</li>
+  <li>Suzhou Institute for Advanced Study​​</li>
+  <li>Cognitive Intelligence SKL​​​</li>
+</ul>​
